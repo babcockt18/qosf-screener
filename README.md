@@ -1,6 +1,6 @@
 # QOSF Screening Task: Find Numbers Less Than k using Grover's Algorithm
 
-This repository contains an implementation of a quantum algorithm to find numbers less than `k` within a list of integers using Grover's search algorithm and the PennyLane library. This represents a submission for the Quantum Open Source Foundation's Screening for Task 1.
+This repository contains an implementation of a quantum algorithm to find numbers less than `k` within a list of integers using Grover's search algorithm[1] and the PennyLane library. This represents a submission for the Quantum Open Source Foundation's Screening for Task 1.
 
 ## Problem Statement
 
@@ -27,9 +27,7 @@ Output:
 
 ## References
 
-1. Deutsch, David, and Richard Jozsa. "Rapid solution of problems by quantum computation." Proceedings of the Royal Society of London. Series A: Mathematical and Physical Sciences 439.1907 (1992): 553-558.
-2. Bernstein, Ethan, and Umesh Vazirani. "Quantum complexity theory." SIAM Journal on computing 26.5 (1997): 1411-1473.
-3. Grover, Lov K. , "A fast quantum mechanical algorithm for database search", Proceedings of the 28th Annual ACM Symposium on the Theory of Computing (1996), arXiv:quant-ph/9605043.
+1. Grover, Lov K. , "A fast quantum mechanical algorithm for database search", Proceedings of the 28th Annual ACM Symposium on the Theory of Computing (1996), arXiv:quant-ph/9605043.
 
 ## License
 
