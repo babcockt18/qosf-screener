@@ -1,4 +1,4 @@
-# Quantum Algorithm for Finding Numbers Less Than k
+# Finding Numbers Less Than k using custom Oracle for Grover's Search Algorithm
 
 This repository contains an implementation of a quantum algorithm to find numbers less than `k` within a list of integers using Grover's search algorithm and the PennyLane library.
 
